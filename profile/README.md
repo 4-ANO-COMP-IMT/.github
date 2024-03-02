@@ -1,5 +1,5 @@
 
-![foto dev expandida](ttps://picsum.photos/2000/800)
+![foto](https://picsum.photos/2000/800)
 
 
 ## Quem somos ? 🤔
